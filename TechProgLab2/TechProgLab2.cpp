@@ -87,7 +87,7 @@ void demonstrateInteger()
 	while (true)
 	{
 		system("cls");
-		std::cout << "Integer =" <<(int)integer<< std::endl;
+		std::cout << "Integer = " <<(int)integer<< std::endl;
 		std::cout << "Выберите действие:\n 1 - сложение  \n 2 - вычитание \n 3 - умножение  \n 4 - деление \n 5 - выйти" << std::endl;
 		int choise = 0;
 		std::cin >> choise;
